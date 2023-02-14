@@ -37,7 +37,7 @@ perform CRUD (Create, Read, Update, and Delete) operations on `user`, `group`, `
 The API uses Basic Authentication, which requires a username and password. You will need to include your API credentials in the Authorization header of each API request.
 
 <h2>API Requests</h2>
-The API uses standard HTTP methods (GET, POST, PUT, DELETE) to perform operations on the `user`, `group`, `member`, `collection`, `collectTable`, `contribution`, `groupadmin`, `savings` data.
+The API uses standard HTTP methods (GET, POST, PUT, DELETE) to perform operations on the ##user, `group`, `member`, `collection`, `collectTable`, `contribution`, `groupadmin`, `savings`, data.
 
 <li>To retrieve a list of all `user`, `group`, `member`, `collection`, `collectTable`, `contribution`, `groupadmin`, `savings` , you can make a GET request to the endpoint URLs.</li>
 <li>To create a new `user`, `group`, `member`, `collection`, `collectTable`, `contribution`, `groupadmin`, `savings` , you can make a POST request to the endpoint URLs with the data in the request body.</li>
