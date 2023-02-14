@@ -1,9 +1,8 @@
 # Esusu-Confam
 <h1>Setup Instructions for all the APIs</h1>
 This guide will walk you through the steps to set up and use the APIs endpoints 
-<li>
-    http://localhost:9000/user/
-</li>
+
+http://localhost:9000/user/
 <li>
     <a>http://localhost:8000/group/</a>
 </li>
