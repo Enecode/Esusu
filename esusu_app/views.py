@@ -93,7 +93,7 @@ class CustomAuthentication(authentication.BaseAuthentication):
             return None
 
         # Return the authenticated user and token
-        return (user, None)
+        return user, None
 
 
 def credentials(request):
