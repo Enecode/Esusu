@@ -1,6 +1,6 @@
 from django.core.management.base import BaseCommand
 from django.utils import timezone
-from esusu_app import Contribution, Member
+from esusu_app.models import Contribution, Member
 
 
 class Command(BaseCommand):
