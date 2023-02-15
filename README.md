@@ -9,7 +9,7 @@ This guide will walk you through the steps to set up and use the APIs endpoints
 - http://localhost:8000/collectTable/
 - http://localhost:8000/contribution/
 - http://localhost:8000/groupadmin/
-- http://localhost:8000/savings/ 
+- http://localhost:8000/savings/
 
 <h2>Prerequisites</h2>
 - Python and the requests library.
